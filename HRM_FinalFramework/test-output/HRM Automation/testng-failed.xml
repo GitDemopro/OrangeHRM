@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HRM Automation]">
+  <test thread-count="5" name="TestScripts(failed)">
+    <classes>
+      <class name="TestScripts.TC2_AddEmp">
+        <methods>
+          <include name="AddEmployee"/>
+        </methods>
+      </class> <!-- TestScripts.TC2_AddEmp -->
+      <class name="TestScripts.Tc1_Login">
+        <methods>
+          <include name="verifyOrangeHRM"/>
+        </methods>
+      </class> <!-- TestScripts.Tc1_Login -->
+    </classes>
+  </test> <!-- TestScripts(failed) -->
+</suite> <!-- Failed suite [HRM Automation] -->

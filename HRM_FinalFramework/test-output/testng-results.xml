@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14083" started-at="2020-03-11T05:15:36Z" finished-at="2020-03-11T05:15:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14083" started-at="2020-03-11T05:15:36Z" finished-at="2020-03-11T05:15:50Z">
+      <class name="TestScripts.Tc1_Login">
+        <test-method status="PASS" signature="verifyOrangeHRM()[pri:0, instance:TestScripts.Tc1_Login@26653222]" name="verifyOrangeHRM" duration-ms="13974" started-at="2020-03-11T05:15:36Z" finished-at="2020-03-11T05:15:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrangeHRM -->
+      </class> <!-- TestScripts.Tc1_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
